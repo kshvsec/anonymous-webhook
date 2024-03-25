@@ -9,7 +9,7 @@
 
 ```json
 {
-    "message":"YOUR MESSAGE HERE"    // UNIX timezone or any int value
+    "message":"YOUR MESSAGE HERE"    // message
 }
 ```
 
