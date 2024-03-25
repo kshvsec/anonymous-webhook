@@ -3,7 +3,7 @@
 - API comes with ratelimit, connection and request logging (cli logging and file logging) and webhook raid alerts with protection.
 
 # USAGE
-- Change the webhook link in the `/apifiles/main.py` and host it on a private server.
+- Change the webhook link in the `/api/main.py` and host it on a private server.
 - Make an **HTTP POST** request to `http://serverip:port/webhookpost`
 - JSON values are given below:
 
