@@ -2,7 +2,7 @@ import time
 from flask import Flask, request
 import requests
 
-webhookurl = "https://discord.com/api/webhooks/1209202925058924624/nsrFPwKtz4hJRjWeCGc1D6BDej8RnqTJzheVgAQRzM_B70bvtpEYZ1p0i8L1ZDbqSYSM"
+webhookurl = ""
 
 app = Flask(__name__)
 red = "\033[1;31m"
